@@ -1,5 +1,6 @@
 ## Nova versão Disponivel
-- **Novidades na versão 1.0.7
+
+- **Novidades na versão 1.0.7**
 
 - **Alternar buffer de Replay:** Alterne entre habilitar ou desabilitar o buffer de repetição.
 - **Salvar Replay e adicionar na fonte:** Salve o Replay e envie o vídeo para a fonte de mídia desejada com um clique.
