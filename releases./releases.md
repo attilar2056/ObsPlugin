@@ -1,3 +1,4 @@
+## Nova versão Disponivel
 ## Novidades na versão 1.0.7
 
 - **Alternar buffer de Replay:** Alterne entre habilitar ou desabilitar o buffer de repetição.
